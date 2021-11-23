@@ -22,7 +22,9 @@
 
 ### Testing Strategies
 **Firstly** when choosing a testing strategy for the test cases that I described: functional types of testing can be used. 
+
 **Secondly**, also types of testing related to changes such as regression testing, smoke testing. 
+
 **Finally**, when testing, you can use test design techniques, and testing black, white, and gray boxes.
 
 ### Jenkins
@@ -36,9 +38,11 @@ Unfortunately, I haven't created any Jenkins projects before so I wasn't able to
 ## How to run
 
 **From IDE**
+
 Run tests in NewLetterSubscriptionTest class
 
 **From command line**
+
 Maven must be installed beforehand
 ```
 mvn clean test
