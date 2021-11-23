@@ -37,6 +37,7 @@ Unfortunately, I haven't created any Jenkins projects before so I wasn't able to
 
 **From IDE**
 Run tests in NewLetterSubscriptionTest class
+
 **From command line**
 Maven must be installed beforehand
 ```
